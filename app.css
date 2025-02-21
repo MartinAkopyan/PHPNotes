@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.new-note {
+    margin-bottom: 20px;
+}
+
+.notes .card {
+    background-color: #fff3cd;
+}
+
+.notes .card .card-title a {
+    color: #856404;
+}
+
+.notes .btn-danger {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.notes .card-text small {
+    display: block;
+    margin-top: 10px;
+    color: #6c757d;
+}
